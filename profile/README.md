@@ -6,8 +6,16 @@ We're working on a series of tools to help folks collaborate on complex codebase
 
 Find out more about how CodeSee Maps can help you streamline your teams' development process [directly from us](https://codesee.io).
 
+## Check out [our learning blog](https://learn.codesee.io)
+## Follow us [on Twitter](https://twitter.com/codeseeio)
+## Catch Open Source Thursdays [on Twitch](https://twitter.com/codeseeio)!
+
 We've also got a slew of open source initiatives for you to check out! 
 
 Why not check out our OSS Community Hub:
+
 [![Banner and logo of the OSS Port](https://user-images.githubusercontent.com/656318/143900901-d4494b43-920e-4af5-8e97-c8d0da8e7a1d.png)](https://oss-port.com)
 
+## [Contribute to the OSS Port](https://github.com/codesee-io/oss-port).
+
+## Is your company fully remote? Add them to our [remote company directory](https://github.com/Codesee-io/remote-companies)!
