@@ -6,16 +6,15 @@ We're working on a series of tools to help folks collaborate on complex codebase
 
 Find out more about how CodeSee Maps can help you streamline your teams' development process [directly from us](https://codesee.io).
 
-## Check out [our learning blog](https://learn.codesee.io)
-## Follow us [on Twitter](https://twitter.com/codeseeio)
-## Catch Open Source Thursdays [on Twitch](https://twitter.com/codeseeio)!
+# Get Involved
+### Check out [our learning blog](https://learn.codesee.io)
+### Follow us [on Twitter](https://twitter.com/codeseeio)
+### Sign up for [Office Hours](https://calendly.com/shanea/codesee-office-hours) with our CEO
+### Book a [pairing session](https://calendly.com/d/mmxd-8ry5/15-minute-codesee-pairing-session) with a CodeSee engineer
+### Join our open source community [on Discord](https://discord.gg/opensource)
 
-We've also got a slew of open source initiatives for you to check out! 
+[![Banner and logo of the Open Source Hub](https://raw.githubusercontent.com/am8989/opensourcehub/main/banner2.png)](https://opensourcehub.io)
 
-Why not check out our OSS Community Hub:
+### Do you want to showcase your open source project? Add it to [Open Source Hub](https://github.com/codesee-io/opensourcehub)!
 
-[![Banner and logo of the OSS Port](https://user-images.githubusercontent.com/656318/143900901-d4494b43-920e-4af5-8e97-c8d0da8e7a1d.png)](https://oss-port.com)
-
-## [Contribute to the OSS Port](https://github.com/codesee-io/oss-port).
-
-## Is your company fully remote? Add them to our [remote company directory](https://github.com/Codesee-io/remote-companies)!
+### Is your company fully remote? Add them to our [remote company directory](https://github.com/Codesee-io/remote-companies)!
